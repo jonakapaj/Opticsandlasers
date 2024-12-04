@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Opticsandlasers/static/css/main.8f649a8d.css",
+    "main.js": "/Opticsandlasers/static/js/main.a56415f2.js",
+    "static/js/453.883e58f1.chunk.js": "/Opticsandlasers/static/js/453.883e58f1.chunk.js",
+    "index.html": "/Opticsandlasers/index.html",
+    "main.8f649a8d.css.map": "/Opticsandlasers/static/css/main.8f649a8d.css.map",
+    "main.a56415f2.js.map": "/Opticsandlasers/static/js/main.a56415f2.js.map",
+    "453.883e58f1.chunk.js.map": "/Opticsandlasers/static/js/453.883e58f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f649a8d.css",
+    "static/js/main.a56415f2.js"
+  ]
+}
